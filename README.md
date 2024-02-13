@@ -7,6 +7,8 @@ Learn git
 Practice as a full stack
 
 ```bash
-Beautiful and convenient features (like this field) for the readme.md file can be observed, for example, when creating Next application
+Beautiful and convenient features (like this field) 
+for the readme.md file can be observed, 
+for example, when creating Next application
 ```
 
